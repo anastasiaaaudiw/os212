@@ -1,0 +1,9 @@
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+#LOG FORMAT
+# ZCZC WEEK # MINUTES LogCode Description
+
+ZCZC 00 02 L01 enroll scele
+ZCZC 00 02 L02 create github account
+ZCZC 00 05 LO3 read week00 assignment pdf
+ZCZC 00 10 LO4 create week00 log 
+
