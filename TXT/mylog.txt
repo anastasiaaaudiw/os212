@@ -7,3 +7,4 @@ ZCZC 00 02 L02 create github account
 ZCZC 00 05 LO3 read week00 assignment pdf
 ZCZC 00 10 LO4 create week00 log
 ZCZC 00 15 L05 github related
+ZCZC 00 20 L06 read week00 materials 
