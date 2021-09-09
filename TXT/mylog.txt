@@ -3,8 +3,10 @@
 # ZCZC WEEK # MINUTES LogCode Description
 
 ZCZC 00 02 L01 enroll scele
-ZCZC 00 02 L02 create github account
-ZCZC 00 05 LO3 read week00 assignment pdf
-ZCZC 00 10 LO4 create week00 log
-ZCZC 00 15 L05 github related
-ZCZC 00 20 L06 read week00 materials 
+ZCZC 00 02 L03 create github account
+ZCZC 00 05 L10 read week00 assignment pdf
+ZCZC 00 10 L10 create week00 log
+ZCZC 00 15 L03 github related
+ZCZC 00 20 L10 read week00 materials
+ZCZC 01 15 L11 download virtualbox
+ZCZC 01 120 L11 Assignment #01 related 
