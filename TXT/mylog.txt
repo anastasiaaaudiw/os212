@@ -8,5 +8,9 @@ ZCZC 00 05 L10 read week00 assignment pdf
 ZCZC 00 10 L10 create week00 log
 ZCZC 00 15 L03 github related
 ZCZC 00 20 L10 read week00 materials
-ZCZC 01 15 L11 download virtualbox
-ZCZC 01 120 L11 Assignment #01 related 
+ZCZC 01 10 L11 Assignment #01 download virtual box
+ZCZC 01 10 L11 Assignment #02 import OVA file, run the virtualbox
+ZCZC 01 60 L11 Assignment #04 related, dress up the virtual guest
+ZCZC 01 60 L11 Assignment #05 related, git cloning
+ZCZC 01 60 L11 Assignment #06 Dress up the github page, add links.md
+ZCZC 01 15 L11 Assignment #07 update mylog.txt
