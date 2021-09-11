@@ -1,5 +1,5 @@
 # Links 🔗
-## Links that I consider helpful for the OS course 📑
+## Links that I consider helpful for the Operating System course 🔌
 [🖇  REPO](https://github.com/anastasiaaaudiw/os212) | [🖊  LOG](TXT/mylog.txt) | [📩 HOME](index.md)
 
 ### [Operating System Course Site - Fasilkom UI](https://os.vlsm.org/)
