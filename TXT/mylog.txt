@@ -22,8 +22,8 @@ ZCZC WO2 10 L15 Assignment #05 List of Current GnuPG Keys
 ZCZC W02 10 L16 Assignment #06 Importing OsPubkey.txt 
 ZCZC W02 10 L17 Assignment #07 Signing the Operating System public key
 ZCZC W02 10 L18 Assignment #08 Export YOUR PUBLIC KEY to the txt repo file
-ZCZC W02 10 L18 Assignment #09 Update bookmark links
-ZCZC W02 10 L18 Assignment #10 Review peer links
-ZCZC W02 10 L18 Assignment #11 copy the bashscript
-ZCZC W02 10 L18 Assignment #12 updating mylog.txt
-ZCZC W02 10 L18 Assignment #13 write a simple myscript.sh
+ZCZC W02 20 L19 Assignment #09 Update bookmark links
+ZCZC W02 10 L20 Assignment #10 Review peer links
+ZCZC W02 10 L09 Assignment #11 copy the bashscript
+ZCZC W02 10 L09 Assignment #12 updating mylog.txt
+ZCZC W02 10 L09 Assignment #13 write a simple myscript.sh
