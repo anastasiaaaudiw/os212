@@ -2,16 +2,28 @@
 #LOG FORMAT
 # ZCZC WEEK # MINUTES LogCode Description
 
-ZCZC 00 02 L01 enroll scele
-ZCZC 00 02 L03 create github account
-ZCZC 00 05 L10 read week00 assignment pdf
-ZCZC 00 10 L10 create week00 log
-ZCZC 00 15 L03 github related
-ZCZC 00 20 L05 read week00 materials
-ZCZC 01 10 L22 quiz week00
-ZCZC 01 10 L11 Assignment #01 download virtual box
-ZCZC 01 10 L11 Assignment #02 import OVA file, run the virtualbox
-ZCZC 01 60 L11 Assignment #04 related, dress up the virtual guest
-ZCZC 01 60 L11 Assignment #05 related, git cloning
-ZCZC 01 60 L11 Assignment #06 Dress up the github page, add links.md
-ZCZC 01 15 L11 Assignment #07 update mylog.txt
+ZCZC W00 02 L01 enroll scele
+ZCZC W00 02 L03 create github account
+ZCZC W00 05 L10 read week00 assignment pdf
+ZCZC W00 10 L10 create week00 log
+ZCZC W00 15 L03 github related
+ZCZC W00 20 L05 read week00 materials
+ZCZC W01 10 L22 quiz week00
+ZCZC W01 10 L11 Assignment #01 download virtual box
+ZCZC W01 10 L12 Assignment #02 import OVA file, run the virtualbox
+ZCZC W01 60 L14 Assignment #04 related, dress up the virtual guest
+ZCZC W01 60 L15 Assignment #05 related, git cloning
+ZCZC W01 60 L16 Assignment #06 Dress up the github page, add links.md
+ZCZC W01 15 L17 Assignment #07 update mylog.txt
+ZCZC W01 30 L22 Week 01 Quiz
+ZCZC W02 10 L11 Assignment #01 Read chapter 16 and 17 
+ZCZC W02 10 L14 Assignment #04 Generating a GnuPG Key Pair
+ZCZC WO2 10 L15 Assignment #05 List of Current GnuPG Keys
+ZCZC W02 10 L16 Assignment #06 Importing OsPubkey.txt 
+ZCZC W02 10 L17 Assignment #07 Signing the Operating System public key
+ZCZC W02 10 L18 Assignment #08 Export YOUR PUBLIC KEY to the txt repo file
+ZCZC W02 10 L18 Assignment #09 Update bookmark links
+ZCZC W02 10 L18 Assignment #10 Review peer links
+ZCZC W02 10 L18 Assignment #11 copy the bashscript
+ZCZC W02 10 L18 Assignment #12 updating mylog.txt
+ZCZC W02 10 L18 Assignment #13 write a simple myscript.sh
