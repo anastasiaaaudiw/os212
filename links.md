@@ -5,7 +5,10 @@ permalink: /LINKS/
 ## Links that I consider helpful for the Operating System course ⌨️
 ### [🖇  REPO](https://github.com/anastasiaaaudiw/os212) | [🖊  LOG](TXT/mylog.txt) | [🛋 HOME](index.md)
 
-### [➡️ Operating System Course Site - Fasilkom UI](https://os.vlsm.org/)
+### [🔺 Scele - Fasilkom UI](https://scele.cs.ui.ac.id/)
+This website is essential to every Fasilkom UI student. Because almost all course resources are provided on this website, thus I find it very convenient for the OS course since it'll be easy for me to commute to the website.
+
+### [🔺 Operating System Course Site - Fasilkom UI](https://os.vlsm.org/)
 This site is build by the OS lecturer as a facilitator site for the students. I find this link helpful because I can access the materials and information easily by clicking this site, it also contains links to lecture materials, exam questions, as well as assignments. 
 
 ### [➡️ Begineer's introduction of Operating System](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/)
