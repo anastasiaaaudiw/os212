@@ -25,3 +25,7 @@ Cyber Security refers to the method of protecting programs, networks, computer s
 
 ### [➡️ C Language Tutorial](https://www.w3schools.in/c-tutorial/) or [Learn the basics of C language](https://www.learn-c.org/)
 These two websites provide the tutorial on how to understand C language from basics to intermediate. I find it very convenient since I do not know anything about the C language. Thus I think I'll be reading them over these resources to comprehend the rest of the OS class. 
+
+### [➡️ File system interface on OS (introduction)](https://www.w3schools.in/operating-system-tutorial/file-system-interface/)
+This website provides a simple introduction to what a file system interface is. Then, it also gives information about the file attributes, fundamental components of a file, and operation. This website is helpful because I can learn the basics of a file system interface without going into the advanced resources. 
+
