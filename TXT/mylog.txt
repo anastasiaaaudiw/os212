@@ -27,3 +27,10 @@ ZCZC W02 10 L20 Assignment #10 Review peer links
 ZCZC W02 10 L09 Assignment #11 copy the bashscript
 ZCZC W02 10 L09 Assignment #12 updating mylog.txt
 ZCZC W02 10 L09 Assignment #13 write a simple myscript.sh
+ZCZC W03 30 L22 Week 02 Quiz
+ZCZC W03 30 L11 Assignment #01 read chapter 13 14 15
+ZCZC W03 10 L14 Assignment #04 Check .bash_aliases
+ZCZC W03 20 L15 Assignment #05 Create an extra virtual disk
+ZCZC W03 10 L16 Assignment #06 Update bookmark links
+ZCZC W03 10 L17 Assignment #07 Review friend's links
+ZCZC W03 10 L18 Assignment #08 update mylog.txt
