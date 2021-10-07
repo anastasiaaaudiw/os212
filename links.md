@@ -39,5 +39,15 @@ This website provides a simple introduction to what a file system interface is. 
 I attached this website because since we're still learning the C programming language, this cheatsheet link might be helpful for those who aren't familiar with the C Language because it provides several templates and examples to help us understand better. 
 
 ## WEEK 04
+### [➡️ File system interface](https://www.w3schools.in/operating-system-tutorial/file-system-interface/)
+This website guided me in understanding the basics of what is a file system interface. It provided lots of information about the concepts.
+
+### [C dynamic memory allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
+This website you'll learn to dynamically allocate memory in your C program using standard library functions: malloc(), calloc(), free() and realloc().
 
 ## WEEK 05
+### [➡️ Introduction to Virtual Memory](https://www.internalpointers.com/post/introduction-virtual-memory)
+Virtual memory is a feature of an operating system that enables a computer to be able to compensate shortages of physical memory by transferring pages of data from random access memory to disk storage. This website gives a great explanation about virtual memroy and how it applies in Operating System.
+
+### [➡ Why is virtual memory necessary](https://www.baeldung.com/cs/virtual-memory-why)
+This website will examine the problems that form the main motivation for the creation of virtual memory. Then, explain the purpose of using this feature in an OS.
