@@ -15,4 +15,4 @@ Since the time is very short, its best to prepare yourself before doing the test
 Usually during every midweek there's contact forum in the scele website where you'll have to type ZCZC W0x github_account. There will be penalty scores for those who replied the forum late.
 
 ### 4️⃣   Follow the assignments' steps thoroughly
-The powerpoints provided always gives to-do lists for each week's assignments and I think that the information provided are always complete, so make sure that you follow each steps so you won't get any JOROK points 
+The powerpoint always gives to-do lists for each week's assignments and I think that the information provided are always complete, so make sure that you follow each steps so you won't get any minus points 
