@@ -3,7 +3,7 @@ permalink: /LINKS/
 ---
 # Links 🔗
 ## Links that I consider helpful for the Operating System course 
-### [🖇  REPO](https://github.com/anastasiaaaudiw/os212) | [🖊  LOG](TXT/mylog.txt) | [🛋 HOME](index.md)
+### [🖇  REPO](https://github.com/anastasiaaaudiw/os212) | [🖊  LOG](TXT/mylog.txt) | [🛋 HOME](index.md) |[🧸 TIPS](tips.md)
 
 ### [🔺 Scele - Fasilkom UI](https://scele.cs.ui.ac.id/)
 This website is essential to every Fasilkom UI student. Because almost all course resources are provided on this website, thus I find it very convenient for the OS course since it'll be easy for me to commute to the website.
