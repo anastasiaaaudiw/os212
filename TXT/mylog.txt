@@ -42,3 +42,9 @@ ZCZC W04 15 L16 Assignment #06 update links
 ZCZC W04 10 L17 Assignment #07 review peer's links
 ZCZC W04 10 L18 Assignment #08 updating mylog.txt
 ZCZC W04 10 L19 Assignment #09 submit Week 4 assignment
+ZCZC W05 30 L22 Week 04 Quiz
+ZCZC W05 15 L11 Assignment #01 read chapter 10
+ZCZC W05 10 L14 Assignment #04 fetch and extract file, modify mymemory, run scripts, copy the results
+ZCZC W05 10 L15 Assignment #05 update bookmark links
+ZCZC W05 10 L17 Assignment #07 Review peer links
+ZCZC W05 10 L8 Assignment #08 update mylog.txt
