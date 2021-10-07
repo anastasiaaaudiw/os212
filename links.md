@@ -6,10 +6,8 @@ permalink: /LINKS/
 ### [🖇  REPO](https://github.com/anastasiaaaudiw/os212) | [🖊  LOG](TXT/mylog.txt) | [🛋 HOME](index.md) |[🧸 TIPS](https://anastasiaaaudiw.github.io/os212/TIPS)
 
 ### [🔺 Scele - Fasilkom UI](https://scele.cs.ui.ac.id/)
-This website is essential to every Fasilkom UI student. Because almost all course resources are provided on this website, thus I find it very convenient for the OS course since it'll be easy for me to commute to the website.
 
 ### [🔺 Operating System Course Site - Fasilkom UI](https://os.vlsm.org/)
-This site is build by the OS lecturer as a facilitator site for the students. I find this link helpful because I can access the materials and information easily by clicking this site, it also contains links to lecture materials, exam questions, as well as assignments. 
 
 ## WEEK 01
 ### [➡ Begineer's introduction of Operating System](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/)
@@ -42,7 +40,7 @@ I attached this website because since we're still learning the C programming lan
 ### [➡️ File system interface](https://www.w3schools.in/operating-system-tutorial/file-system-interface/)
 This website guided me in understanding the basics of what is a file system interface. It provided lots of information about the concepts.
 
-### [C dynamic memory allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
+### [➡️ C dynamic memory allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
 This website you'll learn to dynamically allocate memory in your C program using standard library functions: malloc(), calloc(), free() and realloc().
 
 ## WEEK 05
