@@ -49,3 +49,7 @@ Virtual memory is a feature of an operating system that enables a computer to be
 
 ### [➡ Why is virtual memory necessary](https://www.baeldung.com/cs/virtual-memory-why)
 This website will examine the problems that form the main motivation for the creation of virtual memory. Then, explain the purpose of using this feature in an OS.
+
+## WEEK 06
+### [➡️ Undesrtanding fork()](https://man7.org/linux/man-pages/man2/fork.2.html)
+This webiste act as a linux programmer's manual to fork() operating system.
