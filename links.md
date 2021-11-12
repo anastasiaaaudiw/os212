@@ -53,3 +53,10 @@ This website will examine the problems that form the main motivation for the cre
 ## WEEK 06
 ### [➡️ Undesrtanding fork()](https://man7.org/linux/man-pages/man2/fork.2.html)
 This webiste act as a linux programmer's manual to fork() operating system.
+
+## WEEK 08
+### [➡️ Linux scheduler documentation](https://www.kernel.org/doc/html/v5.5/scheduler/index.html)
+This website provides helpful information regarding on scheduling in linux 
+
+### [➡️ The two states model in Operating System](https://t4tutorials.com/two-state-process-model-in-operating-systems/)
+The two state process model in Operating System are process is running and not running on CPU. This website provides an easy introduction to two state process model.
