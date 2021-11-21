@@ -15,4 +15,7 @@ Since the time is very short, its best to prepare yourself before doing the test
 Usually during every midweek there's contact forum in the scele website where you'll have to type ZCZC W0x github_account. There will be penalty scores for those who replied the forum late.
 
 ### 4️⃣   Follow the assignments' steps thoroughly
-The powerpoint always gives to-do lists for each week's assignments and I think that the information provided are always complete, so make sure that you follow each steps so you won't get any minus points 
+The powerpoint always gives to-do lists for each week's assignments and I think that the information provided are always complete, so make sure that you follow each steps so you won't get any minus points
+
+### ➡️  Don't forget to BASH!!!
+Bashing is the last step in finishing the assignment, so it is really important to bash after finishing all the previous assignments. If you forgot to bash your work, it may not be graded :( 

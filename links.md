@@ -60,3 +60,11 @@ This website provides helpful information regarding on scheduling in linux
 
 ### [➡️ The two states model in Operating System](https://t4tutorials.com/two-state-process-model-in-operating-systems/)
 The two state process model in Operating System are process is running and not running on CPU. This website provides an easy introduction to two state process model.
+
+### WEEK 09 
+
+### [➡️ BIOS, basic input and output system](https://whatis.techtarget.com/definition/BIOS-basic-input-output-system)
+BIOS (basic input/output system) is the program a computer's microprocessor uses to start the computer system after it is powered on. This website provides a good basic information if we want to start understanding BIOS.
+
+### [➡️ Understanding systemd at startup on Linux](https://opensource.com/article/20/5/systemd-startup)
+This website gives a great explanation about systemd on Linux.
